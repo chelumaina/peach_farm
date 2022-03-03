@@ -14,8 +14,9 @@ Mobile Version
 Mobile Version
     ![Alt text](2022-03-03 at 16.17.26.png?raw=true "Title")
 
-    !(Screenshot 2022-03-03 at 16.17.26.png)
+    !(2022-03-03 at 16.17.26.png)
 
+![alt text](https://github.com/chelumaina/peach_farm/blob/main/2022-03-03 at 16.17.26.png?raw=true)
 
 
 
