@@ -46,9 +46,14 @@ To create the above table however, I used the backend migrations technologies to
 
 1. Database Design.
 <p></p>
-![alt text](https://github.com/chelumaina/peach_farm/blob/main/Screenshot5.png?raw=true)
+ <p align="center">
+  <img src="Screenshot5.png" width="350" alt="accessibility text">
+</p>
 <p></p><p></p><p></p>
-![alt text](https://github.com/chelumaina/peach_farm/blob/main/Screenshot4.png?raw=true)
+
+ <p align="center">
+  <img src="Screenshot4.png" width="350" alt="accessibility text">
+</p>
 
 <p></p> 
 1. Frontend
