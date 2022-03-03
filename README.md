@@ -64,7 +64,7 @@ To create the above table however, I used the backend migrations technologies to
 
     The General assuptions is that, an IOT devices is mounted in a certain environments which is broadcasting data periodically to the MQTT server.
 
-    For the Purpose of This Projects and simulations. I have generated and simulated the 1000 feeds Per seconds and sored the same into a file called. `iot_data.json`.
+    For the Purpose of This Projects and simulations. I have generated and simulated the 5000 feeds Per seconds and sored the same into a file called. `iot_data.json`.
     The iot_data.json will be published to the MQTT using the commands below
         `node app/controllers/mqtt_publisher.js`
 
@@ -85,21 +85,10 @@ To create the above table however, I used the backend migrations technologies to
 
     Therefore, I can combine all the measurements into several fields and publish the same using one call. The below filed shows the measurements
 
-    > select * from TemperatureSensor limit 10
-        name: TemperatureSensor
-        time             cold_room_id   humidity kws_energy temperature
-        ----             --------       -------- ---------- ------------ 
-        1646241007385629 1              6        50         9           
-        1646241062206670 1              5        52         -8             
-        1646241062208376 1              4        51         7             
-        1646241062208806 1              4        54         0            
-        1646241062208931 1              6        52         7            
-        1646241062209194 2              5        59         2            
-        1646241062209313 2              6        54         3            
-        1646241062209587 2              6        57         7            
-        1646241062209916 2              4        50         9             
-        1646241062210028 2              6        60         0             
-        >
+![alt text](https://github.com/chelumaina/peach_farm/blob/main/Screenshot3.png?raw=true)
+
+ 
+     
     
     API END_POINTS
 
