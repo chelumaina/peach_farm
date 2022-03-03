@@ -6,14 +6,19 @@ d. InfluxDB - manage raw and Big data
 
 
     The diagram below show the entire implimentation. 
- !(react-node-express-mysql-crud-example-architecture.png)
- 
-Mobile Version
-    !(Screenshot _mobile.png.png)
 
-Mobile Version 
-    !(Screenshot_front.png)
+![alt text](https://github.com/chelumaina/peach_farm/blob/main/react-node-express-mysql-crud-example-architecture.png?raw=true)
+
  
+Web Version 
+ 
+<p align="center">
+  <img src="Screenshot _mobile.png" width="350" title="hover text">
+  </p>
+  Mobile Version 
+  <p align="center">
+  <img src="Screenshot_front.png" width="350" alt="accessibility text">
+</p>
 
 This project is separated into two sub-parts
 1. Database
