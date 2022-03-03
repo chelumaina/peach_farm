@@ -6,14 +6,15 @@ d. InfluxDB - manage raw and Big data
 
 
     The diagram below show the entire implimentation. 
-
-    ![Alt text](react-node-express-mysql-crud-example-architecture.png?raw=true "Title")
+ !(react-node-express-mysql-crud-example-architecture.png)
+ 
+Mobile Version
+    ![Alt text](2022-03-03 at 16.16.43.png?raw=true "Title")
 
 Mobile Version
-    ![Alt text](Screenshot 2022-03-03 at 16.16.43.png?raw=true "Title")
+    ![Alt text](2022-03-03 at 16.17.26.png?raw=true "Title")
 
-Mobile Version
-    ![Alt text](Screenshot 2022-03-03 at 16.17.26.png?raw=true "Title")
+    !(Screenshot 2022-03-03 at 16.17.26.png)
 
 
 
