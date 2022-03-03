@@ -45,32 +45,12 @@ To create the above table however, I used the backend migrations technologies to
 2. Auto Seed with at least 1 record.
 
 1. Database Design.
+<p></p>
+![alt text](https://github.com/chelumaina/peach_farm/blob/main/Screenshot5.png?raw=true)
+<p></p><p></p><p></p>
+![alt text](https://github.com/chelumaina/peach_farm/blob/main/Screenshot4.png?raw=true)
 
-MariaDB [test]> desc peach_farms;
-+----------------+--------------+------+-----+---------+----------------+
-| Field          | Type         | Null | Key | Default | Extra          |
-+----------------+--------------+------+-----+---------+----------------+
-| id             | int(11)      | NO   | PRI | NULL    | auto_increment |
-| company_name   | varchar(255) | YES  |     | NULL    |                |
-| cold_room_name | varchar(255) | YES  |     | NULL    |                |
-| cold_room_id   | int(11)      | YES  |     | NULL    |                |
-| active         | tinyint(1)   | YES  |     | NULL    |                |
-| createdAt      | datetime     | NO   |     | NULL    |                |
-| updatedAt      | datetime     | NO   |     | NULL    |                |
-+----------------+--------------+------+-----+---------+----------------+
-7 rows in set (0.01 sec)
-
-
-MariaDB [test]> select * from peach_farms;
-+----+---------------+--------------------------+--------------+--------+---------------------+---------------------+
-| id | company_name  | cold_room_name           | cold_room_id | active | createdAt           | updatedAt           |
-+----+---------------+--------------------------+--------------+--------+---------------------+---------------------+
-|  1 | Inspira Farms | Mombasa Farm Cold room 1 |            2 |      1 | 2022-03-03 01:43:12 | 2022-03-03 01:43:12 |
-|  2 | Inspira Farms | Nairobi Farm Cold room 1 |            1 |      1 | 2022-03-03 01:43:12 | 2022-03-03 01:43:12 |
-+----+---------------+--------------------------+--------------+--------+---------------------+---------------------+
-2 rows in set (0.00 sec)
-
-
+<p></p> 
 1. Frontend
     This is basically the user interface that is client facing and is intended to read data from backend through APIs
     I designed this page using React JS framework due to its simplicity and ability to design Mobile friendly pages.
