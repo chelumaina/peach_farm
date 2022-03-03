@@ -137,13 +137,7 @@ This is an exciting field of IOT Devices and integrations. I wwould improve in t
 
 3. If you had to set up the infrastructure behind this feature in AWS, how would it look like? 
 
+![alt text](https://github.com/chelumaina/peach_farm/blob/main/react-node-express-mysql-crud-example-architecture.png?raw=true)
 
-**Please create a Readme file to your repository for your answers to Exercise B**
-
-    1. Web Mapping the Coldroom
-    2. purchase of IOT Devices
-    3. Using Docker Containers
-    4. Graphical Representation of Statistics over time
-
-
+ 
     
