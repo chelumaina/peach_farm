@@ -14,11 +14,15 @@ Mobile Version
 Mobile Version
     ![Alt text](2022-03-03 at 16.17.26.png?raw=true "Title")
 
-    !(2022-03-03 at 16.17.26.png)
+    !(Screenshot_front.png)
 
-![alt text](https://github.com/chelumaina/peach_farm/blob/main/2022-03-03 at 16.17.26.png?raw=true)
+![alt text](https://github.com/chelumaina/peach_farm/blob/main/Screenshot_front.png?raw=true)
 
 
+<p align="center">
+  <img src="Screenshot_front" width="350" title="hover text">
+  <img src="Screenshot 2022-03-03 at 16.17.26.png" width="350" alt="accessibility text">
+</p>
 
 This project is separated into two sub-parts
 1. Database
